@@ -1,0 +1,1001 @@
+10      50
+Remsen    1    2
+Baleia    1    2
+Daisyann    2    3
+Kylie    2    3
+Tokyo    2    3
+Chocolo    4    5
+Yodels    4    2
+Lillith    1    4
+Decatur    1    2
+Smokie    1    4
+Hildey    2    3
+Kasha    4    5
+Saxa    3    1
+Pietra    3    2
+Nueve    2    1
+Julyan    1    2
+Hernando    1    2
+Beeses    1    2
+Principie    3    4
+Mcgillicuddy    2    3
+Sanji    2    1
+Bullik    1    2
+Dayo    2    1
+Timbo    4    2
+Lancer    3    4
+Clio    3    4
+Ramona    1    3
+Kike    1    2
+Melo    5    4
+Starlord    3    2
+Bustachanc    1    3
+Myah    5    2
+Perdita    4    2
+Ducthess    1    3
+Nieva    2    4
+Nancy    2    3
+Bookie    1    2
+Leilah    2    1
+Birdie    1    2
+Etta    1    2
+Kyeba    3    4
+Carmelita    3    1
+Whitney    4    1
+Teobaldo    4    2
+Tarj    3    2
+Nayla    1    3
+Aris    2    5
+Voltaire    3    4
+Skippy    4    1
+Chulo    2    4
+Chiko    1    Chewee    2
+Timbo    5    Leelu    1
+Cappucinno    2    Witten    3
+Money    2    Oddie    2
+Cona    1    Pups    1
+Tokyo    3    Jensing    2
+Socartes    2    Remmi    2
+Genesis    2    Skippy    3
+Dayo    2    Britnee    1
+Bossy    4    Sanji    1
+Bustachanc    2    Donut    1
+Pups    1    Kylie    2
+Chocolo    4    Etta    1
+Chulo    2    Rocketman    2
+Rowan    3    Leilah    1
+Melo    4    Nei    2
+Riley    3    Bossy    2
+Nieva    1    Genna    2
+Bullik    1    Masy    2
+Lelah    2    Uncle    1
+Fester    5    Smokie    3
+Aristatole    2    Yodels    2
+Jockey    1    Nuer    2
+Ruari    1    Hernando    2
+Nileah    1    Scissors    3
+Kima    5    Bostwick    1
+Villian    3    Ramses    2
+Winthrop    4    Bossy    1
+Baleia    2    Fester    5
+Conju    1    Ramses    1
+Smokie    4    Filippi    3
+Meek    2    Conju    2
+Immanuel    2    Scissors    3
+Amber    2    Branson    5
+Chunchy    3    Yotiao    3
+Raffie    4    Bookie    1
+Squeakers    3    Kindred    3
+Poirot    2    Carmelita    1
+Brunello    2    Skippy    2
+Charlye    1    Jionni    3
+Clio    4    Alle    2
+Misha    2    Hildey    3
+Aris    3    Pennie    3
+Etta    4    Quin    2
+Mork    4    Nancy    1
+Nueve    2    Julyan    2
+Rocketman    1    Clovie    9
+Bookie    1    Rowan    1
+Ducthess    2    Adagio    1
+Rosalia    4    Chewee    2
+Spigle    3    4
+Saxa    3    2
+Principie    1    4
+Jazzi    1    3
+Skippy    1    4
+Pennie    3    1
+Voltaire    2    3
+Ramona    3    4
+Rosetta    3    2
+Rocketman    1    2
+Branson    7    1
+Clovie    8    4
+Daguerre    2    3
+Bostwick    1    2
+Tomiko    1    2
+Carmelita    2    3
+Nuer    1    5
+Chunchy    4    3
+Hernando    1    2
+Doba    1    2
+Beeses    1    2
+Lillith    4    2
+Aris    2    1
+Genesis    1    2
+Alle    2    3
+Paijah    1    2
+Ducthess    3    1
+Amaya    4    3
+Gucci    2    1
+Hazy    1    3
+Nano    2    4
+Tokyo    2    3
+Remsen    1    2
+Amber    1    2
+Leelu    3    2
+Scissors    3    1
+Taran    5    1
+Dice    3    2
+Uncle    4    3
+Coconut    1    4
+Bullik    1    2
+Timbo    1    4
+Tarj    5    4
+Ruari    1    3
+Ohio    3    4
+Smokie    2    3
+Juan    1    3
+Chiko    1    2
+Witten    4    3
+Kindred    1    4
+Witten    1    Remmi    3
+Lancer    1    Ohio    1
+Meek    2    Winthrop    2
+Emik    2    Cosmo    4
+Remmi    2    Doba    2
+Spigle    1    Sanji    2
+Baleia    2    Khalia    3
+Timbo    1    Khalia    2
+Christi    5    Witten    1
+Ciuce    4    Hernando    2
+Leelu    3    Rochester    1
+Ramses    4    Adagio    1
+Darius    1    Villian    3
+Daisyann    1    Carmelita    1
+Pum    1    Lelah    1
+Darky    2    Carmelita    3
+Birdie    1    Etta    4
+Jazzi    2    Dongja    1
+Money    3    Scissors    3
+Bostwick    1    Rowan    3
+Mork    2    Amiga    1
+Etsy    2    Doba    1
+Cona    3    Humoose    3
+Kasha    1    Chunchy    4
+Rosetta    3    Tarzan    5
+Aristatole    1    Nileah    2
+Saxa    1    Zona    2
+Dice    1    Britnee    2
+Quin    2    Dongja    4
+Kylie    2    Etsy    3
+Rosalia    4    Nancy    3
+Daguerre    2    Kiara    2
+Smokie    3    Beeses    2
+Bustachanc    3    Conju    2
+Riley    3    Leilah    3
+Sanji    2    Etsy    5
+Benju    2    Saxa    3
+Kima    4    Asahi    1
+Hildey    3    Branson    7
+Bossy    1    Genesis    2
+Dayo    3    Bookie    1
+Uncle    4    Kasha    3
+Yotiao    2    Villian    2
+Dindi    3    Kyeba    4
+Jensing    1    Carmelita    2
+Khalia    2    Hanson    3
+Ducthess    2    Leilah    3
+Pups    3    Aristatole    2
+Tozai    2    Smokie    1
+Donut    2    Tygriss    3
+Julyan    1    2
+Socartes    3    1
+Lancer    4    3
+Lanlan    3    1
+Nadette    2    3
+Darius    4    3
+Doba    1    2
+Tarzan    1    7
+Mccann    1    3
+Nuer    2    1
+Khalia    3    1
+Tozai    2    3
+Bostwick    1    2
+Bullik    1    2
+Aristatole    1    2
+Chocolo    5    2
+Bookie    1    2
+Riley    4    2
+Pups    2    1
+Squeakers    1    3
+Carmelita    1    2
+Chunchy    3    4
+Chewee    2    3
+Mcgillicuddy    3    2
+Pheebs    1    3
+Birdie    1    2
+Voltaire    4    2
+Cona    2    3
+Money    3    4
+Immanuel    2    3
+Juan    3    4
+Lelah    1    2
+Nancy    3    2
+Perdita    1    4
+Ohio    2    4
+Paijah    4    1
+Witten    4    1
+Principie    3    4
+Genna    1    2
+Branson    6    2
+Ducthess    3    2
+Amber    1    2
+Emik    1    2
+Ciuce    1    8
+Spigle    1    4
+Filippi    3    2
+Nayla    2    1
+Mork    3    4
+Kasha    3    5
+Tokyo    3    1
+Nano    1    Shaddow    1
+Beeses    2    Skippy    4
+Darius    1    Beeses    2
+Benju    1    Meek    10
+Jockey    3    Leilah    2
+Rowan    4    Squeakers    3
+Kasha    3    Yodels    3
+Shine    2    Cosmo    2
+Timbo    5    Chocolo    4
+Winthrop    1    Starlord    1
+Remmi    1    Timbo    3
+Nueve    2    Carmelita    3
+Cona    3    Winthrop    1
+Ruari    3    Socartes    3
+Dindi    4    Winthrop    1
+Princeton    1    Socartes    1
+Riley    2    Donut    1
+Clovie    8    Clio    1
+Lillith    1    Kylie    1
+Brunello    2    Daisyann    2
+Pheebs    3    Clovie    7
+Doba    2    Skippy    4
+Witten    4    Chunchy    5
+Nayla    1    Tozai    1
+Meek    5    Mcgillicuddy    1
+Brownny    2    Masy    1
+Bustachanc    2    Hazy    1
+Hanson    14    Leilah    2
+Yodels    3    Leelu    2
+Shaddow    1    Bookie    1
+Lelah    2    Chewee    3
+Saxa    3    Raffie    2
+Masy    2    Conju    1
+Amaya    4    Juan    4
+Clio    1    Rocketman    1
+Jionni    2    Hazy    3
+Skippy    4    Spigle    4
+Perdita    1    Jazzi    5
+Chunchy    4    Teobaldo    3
+Villian    2    Genna    1
+Mork    3    Bookie    1
+Tarzan    6    Genna    1
+Myah    4    Perdita    3
+Yotiao    1    Brownny    2
+Bullik    1    Brownny    1
+Lanlan    1    Raffie    3
+Voltaire    1    Amiga    1
+Kima    1    Cona    3
+Spigle    3    Hazy    3
+Pum    2    Etta    3
+Kylie    4    2
+Remmi    4    3
+Bullik    1    2
+Jensing    2    3
+Bossy    3    2
+Masy    1    2
+Money    1    2
+Hazy    3    1
+Emik    1    2
+Nieva    4    1
+Daguerre    2    3
+Nadette    1    2
+Dice    1    4
+Hanson    1    13
+Tokyo    1    3
+Etta    2    3
+Dindi    2    1
+Perdita    2    1
+Amiga    2    3
+Mcgillicuddy    1    3
+Rowan    2    1
+Aristatole    1    2
+Tarzan    9    8
+Kindred    2    4
+Genesis    1    2
+Nuer    2    1
+Remsen    1    2
+Yodels    2    3
+Chocolo    2    3
+Nano    2    1
+Darky    2    1
+Pennie    1    3
+Sanji    1    2
+Taran    5    1
+Nei    1    2
+Uncle    3    1
+Cona    1    2
+Ruari    1    3
+Julyan    1    2
+Chulo    4    3
+Hildey    3    2
+Benju    1    2
+Amaya    4    3
+Jazzi    1    2
+Poirot    1    2
+Riley    3    2
+Daisyann    5    1
+Christi    1    3
+Genna    1    2
+Ohio    4    3
+Southernbell    10    Kasha    5
+Perdita    3    Cosmo    4
+Kima    4    Brownny    2
+Daguerre    1    Bullik    1
+Etsy    6    Jockey    1
+Aris    1    Darky    1
+Socartes    2    Chewee    1
+Aristatole    2    Nieva    2
+Villian    4    Riley    2
+Mcgillicuddy    3    Rosalia    2
+Pheebs    3    Asahi    2
+Cona    2    Clovie    4
+Nadette    1    Emik    2
+Nano    3    Jionni    2
+Amaya    2    Kyeba    1
+Darky    1    Dayo    2
+Clovie    9    Alle    2
+Kyeba    3    Skippy    3
+Scissors    2    Clio    3
+Alle    2    Southernbell    5
+Jionni    2    Britnee    1
+Shaddow    1    Chewee    3
+Winthrop    1    Humoose    1
+Tokyo    1    Remsen    2
+Kike    1    Tomiko    2
+Ruari    2    Asahi    2
+Nuer    2    Jionni    2
+Julyan    1    Pheebs    2
+Spigle    4    Birdie    2
+Carmelita    2    Bookie    1
+Dindi    2    Clovie    3
+Darius    1    Juan    2
+Princeton    1    Pum    2
+Decatur    2    Nueve    2
+Pennie    2    Ramses    2
+Rosalia    1    Hazy    1
+Woody    1    Rocketman    2
+Misha    1    Woody    2
+Chewee    3    Shaddow    1
+Dongja    1    Pietra    3
+Ducthess    3    Clovie    7
+Amiga    1    Bustachanc    2
+Conju    2    Yotiao    2
+Kindred    2    Pups    3
+Hildey    3    Julyan    1
+Quin    2    Jazzi    5
+Lillith    3    Paijah    4
+Voltaire    1    Rosalia    3
+Filippi    2    Nadette    1
+Hazy    1    Brownny    1
+Misha    1    2
+Leelu    3    1
+Squeakers    3    4
+Dayo    3    1
+Teobaldo    3    2
+Aris    2    5
+Yodels    2    4
+Pietra    3    4
+Bossy    3    1
+Carmelita    2    1
+Dongja    3    4
+Tarj    4    3
+Amaya    1    4
+Nano    3    4
+Southernbell    5    11
+Kindred    2    1
+Jazzi    2    1
+Raffie    3    2
+Beeses    1    2
+Daisyann    3    2
+Pups    2    3
+Ruari    3    2
+Fester    3    4
+Birdie    1    2
+Tozai    3    1
+Etsy    2    1
+Lanlan    3    1
+Emik    1    2
+Britnee    1    2
+Mcgillicuddy    2    1
+Etta    3    2
+Starlord    3    2
+Nueve    2    3
+Charlye    2    1
+Leilah    2    4
+Myah    1    4
+Bullik    1    2
+Gucci    2    1
+Bustachanc    3    2
+Clovie    9    2
+Tygriss    1    4
+Spigle    3    4
+Bookie    1    2
+Cosmo    3    1
+Voltaire    1    3
+Pennie    3    1
+Lelah    1    2
+Lillith    4    3
+Mork    5    1
+Darius    2    1
+Simom    1    Masy    1
+Pheebs    3    Chulo    2
+Cappucinno    2    Nueve    1
+Cona    3    Kasha    2
+Remsen    2    Filippi    2
+Ducthess    2    Leilah    1
+Brownny    2    Nieva    2
+Amiga    3    Alle    3
+Remmi    3    Pennie    2
+Ramona    4    Benju    1
+Chocolo    3    Kylie    3
+Misha    2    Daguerre    2
+Hazy    4    Pum    3
+Nancy    1    Genna    2
+Southernbell    6    Woody    2
+Perdita    2    Nei    2
+Rocketman    1    Nieva    3
+Shaddow    1    Melo    2
+Nueve    2    Socartes    3
+Tarzan    9    Nuer    4
+Pups    1    Lanlan    3
+Jockey    2    Tarzan    1
+Ohio    1    Sanji    2
+Tomiko    2    Pum    1
+Lanlan    1    Baleia    3
+Raffie    3    Brunello    4
+Chunchy    1    Coconut    3
+Princeton    1    Ramona    1
+Squeakers    2    Nieva    2
+Tygriss    2    Melo    1
+Fester    4    Dice    1
+Aristatole    1    Darius    4
+Poirot    1    Ramona    3
+Mork    4    Villian    1
+Nayla    3    Squeakers    1
+Jionni    1    Coconut    1
+Tozai    2    Amaya    3
+Charlye    1    Genna    1
+Amaya    2    Chulo    4
+Brunello    1    Rochester    1
+Dice    2    Humoose    1
+Villian    3    Paijah    2
+Darky    2    Leilah    3
+Beeses    1    Voltaire    3
+Paijah    4    Ciuce    2
+Lelah    2    Quin    2
+Immanuel    1    Cosmo    2
+Quin    2    Julyan    2
+Leelu    2    Principie    1
+Teobaldo    3    Genna    1
+Socartes    2    3
+Uncle    4    2
+Daguerre    2    3
+Squeakers    3    1
+Pum    4    2
+Cona    1    2
+Tomiko    1    2
+Coconut    2    3
+Doba    1    2
+Kiara    1    2
+Rowan    4    2
+Kindred    2    1
+Jionni    1    2
+Smokie    2    3
+Emik    1    2
+Genna    1    2
+Daisyann    1    4
+Money    1    3
+Yodels    4    2
+Raffie    4    1
+Juan    4    1
+Nadette    2    3
+Khalia    2    1
+Jockey    1    2
+Nuer    3    4
+Taran    3    1
+Zona    2    3
+Aris    3    5
+Shine    1    2
+Ciuce    5    8
+Gucci    1    3
+Chulo    2    3
+Baleia    1    3
+Spigle    3    1
+Aristatole    1    2
+Nileah    3    1
+Pennie    3    2
+Pietra    4    1
+Alle    2    3
+Branson    4    6
+Voltaire    4    3
+Chiko    1    2
+Humoose    2    1
+Lelah    1    2
+Chocolo    3    1
+Teobaldo    4    3
+Hernando    1    2
+Nancy    2    3
+Cappucinno    1    2
+Rocketman    1    2
+Clio    3    Dongja    3
+Nano    4    Lanlan    2
+Lillith    3    Whitney    2
+Immanuel    1    Hanson    3
+Nayla    2    Quin    2
+Myah    4    Ruari    1
+Kike    2    Jazzi    2
+Jionni    1    Dongja    1
+Remmi    3    Conju    1
+Leelu    3    Dongja    4
+Mork    4    Darius    2
+Rosetta    4    Nancy    3
+Birdie    1    Chunchy    3
+Brownny    1    Jockey    3
+Mccann    2    Nuer    1
+Genna    2    Nancy    2
+Nei    2    Jazzi    1
+Mcgillicuddy    1    Chulo    5
+Meek    3    Sanji    3
+Aris    1    Timbo    3
+Humoose    1    Alle    3
+Scissors    4    Quin    1
+Bustachanc    1    Genesis    2
+Beeses    2    Kiara    2
+Nadette    2    Lancer    3
+Pennie    3    Saxa    3
+Shine    1    Etta    2
+Princeton    1    Poirot    2
+Amiga    2    Clovie    2
+Perdita    4    Tarzan    7
+Fester    1    Nuer    1
+Branson    5    Ciuce    1
+Hazy    2    Humoose    2
+Asahi    3    Yodels    3
+Leilah    2    Juan    2
+Pietra    2    Nayla    3
+Nieva    1    Rosetta    1
+Baleia    3    Nei    1
+Kima    2    Ramses    3
+Teobaldo    2    Genna    1
+Quin    1    Bullik    2
+Amber    1    Sanji    2
+Woody    2    Chulo    1
+Tokyo    3    Bustachanc    1
+Chocolo    3    Remsen    2
+Tygriss    3    Benju    2
+Chunchy    4    Juan    4
+Brunello    1    Chunchy    5
+Emik    2    Nuer    1
+Yotiao    1    Daguerre    1
+Rowan    4    1
+Nueve    1    3
+Bustachanc    3    1
+Lanlan    2    3
+Genesis    1    2
+Chocolo    5    2
+Fester    5    2
+Juan    2    3
+Nano    1    2
+Winthrop    3    1
+Julyan    1    2
+Hanson    9    12
+Charlye    3    1
+Pum    2    4
+Britnee    1    2
+Pheebs    3    2
+Perdita    4    2
+Hildey    3    1
+Daguerre    1    2
+Chewee    3    2
+Doba    1    2
+Myah    2    1
+Shine    1    2
+Chunchy    2    5
+Poirot    1    2
+Shaddow    1    2
+Paijah    3    1
+Nileah    1    3
+Jionni    1    2
+Ramses    2    1
+Kiara    1    2
+Saxa    2    1
+Decatur    3    1
+Etsy    3    5
+Masy    1    2
+Gucci    2    4
+Smokie    2    1
+Cappucinno    1    2
+Oddie    3    4
+Lancer    1    2
+Amber    1    2
+Beeses    1    2
+Mcgillicuddy    3    2
+Carmelita    3    1
+Nayla    1    3
+Hazy    1    3
+Rocketman    1    2
+Humoose    3    1
+Lillith    4    2
+Benju    1    2
+Villian    2    Gucci    1
+Princeton    1    Nuer    5
+Rochester    1    Zona    3
+Hernando    1    Ramona    4
+Nei    2    Hernando    1
+Clio    2    Myah    5
+Conju    1    Rocketman    2
+Etsy    3    Julyan    1
+Pups    3    Starlord    1
+Spigle    2    Pum    1
+Pum    1    Khalia    1
+Tygriss    4    Brownny    2
+Kike    1    Charlye    3
+Cappucinno    2    Voltaire    2
+Quin    2    Dayo    1
+Principie    3    Lillith    1
+Jensing    2    Nieva    4
+Mork    2    Ohio    4
+Shine    2    Chocolo    2
+Lanlan    3    Teobaldo    1
+Britnee    1    Darius    2
+Scissors    4    Fester    5
+Mcgillicuddy    1    Pum    1
+Nayla    2    Nuer    3
+Raffie    3    Daisyann    5
+Teobaldo    3    Kindred    3
+Rosalia    5    Perdita    4
+Yotiao    2    Bossy    1
+Branson    4    Ducthess    2
+Etta    4    Oddie    1
+Cosmo    2    Villian    1
+Yodels    3    Amiga    3
+Winthrop    1    Rochester    3
+Bostwick    2    Melo    5
+Uncle    2    Yotiao    2
+Misha    2    Shaddow    1
+Saxa    1    Witten    4
+Chulo    1    Socartes    2
+Julyan    1    Scissors    3
+Aristatole    2    Scissors    3
+Amiga    3    Tygriss    1
+Simom    1    Pennie    1
+Shaddow    1    Pheebs    1
+Dindi    4    Southernbell    8
+Paijah    2    Teobaldo    2
+Poirot    1    Masy    2
+Woody    2    Teobaldo    1
+Kindred    2    Lanlan    2
+Remsen    1    Etsy    1
+Gucci    1    Leilah    2
+Dice    4    1
+Tomiko    1    2
+Southernbell    4    6
+Carmelita    2    1
+Birdie    1    2
+Alle    1    3
+Riley    2    4
+Lelah    1    2
+Tozai    3    2
+Kylie    2    3
+Zona    3    1
+Amiga    1    2
+Bustachanc    2    3
+Poirot    1    2
+Darky    1    2
+Witten    2    4
+Teobaldo    1    4
+Ducthess    1    2
+Amber    1    2
+Aris    3    5
+Ohio    1    4
+Clio    1    2
+Rosalia    2    1
+Coconut    2    4
+Daguerre    3    1
+Tarzan    8    3
+Socartes    1    3
+Fester    3    5
+Mccann    2    3
+Hernando    1    2
+Adagio    1    2
+Pennie    1    2
+Meek    3    5
+Uncle    1    2
+Money    4    1
+Nano    4    1
+Principie    3    4
+Aristatole    1    2
+Nieva    3    2
+Cappucinno    1    2
+Nuer    1    3
+Yodels    3    1
+Rowan    1    4
+Kasha    5    2
+Chunchy    1    4
+Hildey    2    3
+Masy    1    2
+Timbo    4    6
+Remmi    3    2
+Villian    3    1
+Socartes    3    Darky    2
+Spigle    4    Quin    1
+Tomiko    2    Amber    1
+Juan    4    Genna    2
+Etta    4    Smokie    2
+Cappucinno    1    Daisyann    3
+Ohio    2    Nano    2
+Christi    4    Whitney    2
+Southernbell    8    Kylie    3
+Hanson    10    Southernbell    3
+Aristatole    1    Woody    2
+Bossy    4    Fester    2
+Khalia    3    Hernando    2
+Lillith    2    Squeakers    2
+Brownny    2    Princeton    2
+Britnee    1    Teobaldo    2
+Bullik    1    Ducthess    1
+Cosmo    2    Ruari    2
+Nancy    1    Nano    1
+Nuer    2    Pum    3
+Kyeba    2    Nayla    1
+Leilah    3    Poirot    2
+Squeakers    4    Poirot    1
+Rochester    3    Branson    7
+Ducthess    2    Ciuce    6
+Gucci    4    Pum    3
+Jionni    1    Daisyann    5
+Amber    2    Dindi    1
+Sanji    4    Kindred    4
+Chewee    3    Quin    1
+Clovie    9    Squeakers    2
+Money    1    Smokie    3
+Rowan    3    Nei    2
+Darius    4    Raffie    2
+Masy    1    Ducthess    3
+Nueve    1    Jazzi    5
+Villian    4    Rowan    3
+Nileah    2    Myah    2
+Meek    7    Quin    1
+Bostwick    2    Poirot    1
+Paijah    4    Ramses    1
+Kasha    3    Clio    2
+Ruari    2    Shaddow    2
+Conju    2    Squeakers    4
+Tarzan    1    Hazy    3
+Perdita    1    Shine    1
+Baleia    3    Squeakers    2
+Dice    3    Pietra    4
+Rosalia    1    Nancy    1
+Nayla    2    Benju    2
+Zona    3    1
+Nancy    2    3
+Brunello    4    3
+Ohio    1    2
+Riley    2    3
+Hernando    1    2
+Birdie    1    2
+Kasha    1    3
+Donut    1    2
+Ducthess    3    2
+Emik    1    2
+Teobaldo    4    1
+Dice    4    1
+Hanson    8    6
+Coconut    2    3
+Kiara    1    2
+Kima    5    6
+Pietra    1    2
+Asahi    2    1
+Mcgillicuddy    4    2
+Nayla    2    3
+Nei    1    3
+Darky    2    1
+Cosmo    2    1
+Amber    1    2
+Nileah    3    1
+Perdita    2    1
+Chunchy    3    2
+Carmelita    2    3
+Oddie    2    1
+Taran    4    2
+Starlord    1    2
+Etsy    3    6
+Lillith    2    4
+Masy    1    2
+Britnee    1    2
+Kyeba    4    2
+Winthrop    3    1
+Fester    4    2
+Scissors    1    4
+Remsen    1    2
+Dindi    2    1
+Voltaire    4    1
+Filippi    3    1
+Immanuel    1    3
+Nueve    3    1
+Nadette    1    2
+Bostwick    1    2
+Tozai    1    2
+Paijah    2    3
+Jockey    1    Humoose    2
+Oddie    5    Fester    3
+Conju    2    Chiko    1
+Nei    3    Villian    1
+Kiara    1    Mccann    2
+Remmi    4    Rosalia    4
+Rowan    2    Jensing    2
+Starlord    1    Clovie    9
+Kasha    2    Scissors    1
+Teobaldo    3    Mork    1
+Rocketman    1    Daisyann    4
+Juan    1    Conju    2
+Rosetta    4    Nuer    1
+Myah    2    Riley    2
+Bostwick    1    Voltaire    4
+Sanji    2    Baleia    3
+Paijah    4    Quin    1
+Carmelita    2    Remsen    1
+Rochester    3    Ducthess    3
+Chunchy    4    Birdie    2
+Dindi    4    Bullik    1
+Mcgillicuddy    2    Leilah    1
+Leilah    1    Kima    5
+Simom    2    Lancer    3
+Clio    3    Smokie    4
+Kindred    3    Tomiko    2
+Donut    2    Princeton    1
+Poirot    1    Taran    3
+Nancy    1    Remsen    2
+Daguerre    1    Tokyo    1
+Aristatole    2    Genesis    2
+Jensing    1    Nuer    3
+Fester    5    Skippy    2
+Etta    2    Cosmo    4
+Socartes    1    Kasha    2
+Julyan    2    Fester    3
+Tozai    3    Dice    3
+Nano    4    Shaddow    1
+Dice    2    Nueve    2
+Amiga    1    Squeakers    2
+Jazzi    5    Charlye    1
+Quin    1    Lancer    2
+Benju    1    Principie    5
+Charlye    3    Kiara    1
+Alle    3    Squeakers    2
+Pietra    4    Yodels    1
+Skippy    3    Zona    1
+Riley    3    Donut    1
+Scissors    4    Kima    2
+Etsy    4    Ramses    2
+Whitney    3    1
+Squeakers    2    1
+Ramses    3    4
+Nei    1    3
+Sanji    3    1
+Rosalia    3    4
+Yodels    3    4
+Southernbell    6    3
+Spigle    4    2
+Humoose    2    1
+Pietra    3    4
+Nileah    3    1
+Leilah    3    1
+Nuer    3    4
+Riley    4    1
+Hazy    1    2
+Kyeba    3    2
+Kiara    1    2
+Money    4    3
+Etsy    2    5
+Timbo    3    2
+Zona    3    1
+Rosetta    3    1
+Myah    1    2
+Darky    2    3
+Baleia    3    1
+Woody    1    2
+Amaya    3    1
+Aristatole    1    2
+Genna    1    2
+Adagio    1    2
+Witten    4    2
+Hildey    3    1
+Simom    1    2
+Hernando    1    2
+Villian    1    2
+Bossy    3    1
+Lancer    2    1
+Rowan    1    4
+Conju    1    2
+Socartes    3    1
+Lillith    1    4
+Aris    4    3
+Melo    3    4
+Pups    3    1
+Kylie    3    2
+Tozai    1    3
+Kike    4    5
+Charlye    2    3
+Ducthess    1    3
+Kylie    4    Alle    3
+Genesis    2    Southernbell    4
+Chunchy    5    Daguerre    3
+Villian    1    Filippi    3
+Hildey    1    Daisyann    3
+Humoose    3    Mork    2
+Decatur    1    Julyan    1
+Branson    4    Birdie    2
+Socartes    2    Branson    8
+Remmi    1    Woody    2
+Nileah    2    Kima    5
+Teobaldo    4    Christi    3
+Rosalia    1    Cona    1
+Ramses    3    Tygriss    2
+Melo    4    Ramona    3
+Lillith    4    Jionni    3
+Money    1    Nano    3
+Beeses    1    Genna    2
+Nei    1    Winthrop    4
+Chewee    1    Bostwick    2
+Aristatole    2    Misha    2
+Emik    2    Coconut    1
+Amiga    1    Etta    2
+Paijah    3    Genna    2
+Simom    2    Misha    1
+Woody    1    Benju    2
+Dindi    2    Genesis    2
+Ciuce    7    Teobaldo    4
+Pum    4    Kima    1
+Ruari    3    Ramses    4
+Bullik    1    Teobaldo    1
+Daisyann    5    Tozai    2
+Amber    2    Dayo    3
+Darky    3    Conju    2
+Bookie    1    Tygriss    1
+Winthrop    4    Tarzan    1
+Birdie    2    Juan    1
+Immanuel    3    Amaya    1
+Southernbell    9    Benju    2
+Witten    1    Tarj    2
+Etsy    4    Remmi    2
+Charlye    2    Nancy    2
+Nuer    3    Rowan    2
+Ohio    4    Ruari    1
+Baleia    2    Myah    1
+Coconut    2    Simom    1
+Poirot    2    Ohio    4
+Mcgillicuddy    1    Meek    1
+Nadette    1    Decatur    1
+Tarj    4    Nei    1
